@@ -36,7 +36,7 @@ The application provides insightful reports and analysis to help users understan
 # Installation
 ## Clone the repository:
 ```bash
-git clone https://github.com//expense-tracker.git
+git clone https://github.com/ap2323/expense-tracker.git
 cd expense-tracker
 ```
 ## Database Configuration
